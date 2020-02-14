@@ -1,0 +1,63 @@
+	body{
+		background-color: ghostwhite;
+	}
+	.selected{
+		color: white;
+
+	}
+
+	.sideNav a:active{
+		background-color: red;
+		color:white;
+	}
+
+	.sideNav a:hover{
+		background-color: gray;
+		color: white;
+	}
+
+	.sideNav{
+		margin-top: 50px;
+		max-width: 18%;
+
+	}
+
+	.sideNav .nav-item{
+		background-color: white;
+	}
+
+	.whiteSpc {
+		color:white;
+	}
+
+	.whiteSpc:hover{
+		background-color: white;
+	}
+
+	.main-content{
+		margin-top: 50px;
+		max-width: 80%;
+	}
+
+	.sideNav-header{
+		background-color: lightgray;
+		color:black;
+		margin:0;
+	}
+
+	.sideNav-subitem{
+		text-indent: 15px;
+	}
+
+	.account-text {
+		margin :0;
+		font-size: 16px;
+	}
+
+	.name{
+		font-size: 32px; 
+		text-decoration: underline;
+		margin-bottom: 0;
+
+		color: #e60000;
+	}
